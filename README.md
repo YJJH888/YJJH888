@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi there, I'm Yujia HOU 👋
 
-<!--
-**YJJH888/YJJH888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **Current Role:** Ph.D. Student at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/)
+- 🎓 **Thrust:** Urban Governance and Design, Society Hub
+- 📚 **Research Interests:** Social Stratification and Gender Inequality
+- 💬 **Methodology:** Quantitative Analysis, Social Survey, Data Visualization
+- 📫 **Contact:** yhou436@connect.hkust-gz.edu.cn
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools
+
+Since I work in social science research, here are the tools I use:
+
+- **Programming:** Python (Pandas, NumPy), R, Stata
+- **Data Viz:** Tableau, Matplotlib, Seaborn
+- **Writing:** LaTeX, Markdown
+- **Languages:** Chinese (Native), English (Fluent)
+
+---
+
+### 📊 My GitHub Stats
+
+![Yujia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YJJH888&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YJJH888&layout=compact&theme=merko)
